@@ -15,11 +15,11 @@ Software Developer and Full Stack Developer with +2 years of experience, current
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lfelipeu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gerson-aguedo-yanac-aa949b1b5/" height="30" width="40" /></a>
-<a href="[https://dazzling-manatee-22c380.netlify.app/]" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="goraycode" height="40" width="40" /></a>
+<a href="[https://dazzling-manatee-22c380.netlify.app](https://dazzling-manatee-22c380.netlify.app/)" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="goraycode" height="40" width="40" /></a>
 </p>
 
- #
- <br/>
+#
+<br/>
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=lfelipeu&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="My Github Stats">
 <img  width="39.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipeu&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="My Github Stats">
