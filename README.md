@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Luis Felipe</h1>
-<h3 align="center">Beginner in full stack development and you can tell me Felipe</h3>
+<h3 align="center">Beginner in Full Stack Development and you can tell me Felipe</h3>
 
 <img align="right" width="50%" src="https://i.postimg.cc/Njp40zZp/programmer-Sinfondo.png">
 
