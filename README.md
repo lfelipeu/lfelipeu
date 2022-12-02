@@ -23,4 +23,4 @@ Software Developer and Full Stack Developer with +2 years of experience, current
 </p>
 
 #### Thanks for visiting :crossed_fingers:
-[![](https://visitcount.itsvg.in/api?id=lfelipeu&icon=2&color=12)](https://visitcount.itsvg.in)
+![VisitorCount](https://profile-counter.glitch.me/lfelipeu/count.svg)
