@@ -21,6 +21,8 @@ Software Developer and Full Stack Developer with +2 years of experience, current
 <img  src="https://github-readme-stats.vercel.app/api?username=lfelipeu&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="My Github Stats">
 <img  width="39.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipeu&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="My Github Stats">
 </p>
-
+ 
+ <br/>
+ 
 #### Thanks for visiting :crossed_fingers:
 ![VisitorCount](https://profile-counter.glitch.me/lfelipeu/count.svg)
