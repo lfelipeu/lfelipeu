@@ -3,7 +3,7 @@
 
 <img align="right" width="50%" src="https://i.postimg.cc/Njp40zZp/programmer-Sinfondo.png">
 
-# About Me:
+About Me:
 Software Developer and Full Stack Developer with +2 years of experience, currently working and creating projects as a freelancer to increase my experience and knowledge in the programming field. I am very constant and passionate, which always helps me to go all the way in the things I do. Thanks to this I have learned to pay attention to the needs to develop in the most efficient and useful way.<br><br>📚 Always willing to learn more.<br>🔍 I am currently learning a lot about programming.<br>🤝 I love working on this, it drives me to excel myself, and to find my great capabilities. <br>
 
 
