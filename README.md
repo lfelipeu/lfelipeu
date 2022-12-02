@@ -1,8 +1,13 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋 I'm Luis Felipe</h1>
+<h3 align="center">Beginner in full stack development and you can tell me Felipe</h3>
+
+<img align="right" width="50%" src="https://i.postimg.cc/Njp40zZp/programmer-Sinfondo.png">
+
+# About Me:
 Software Developer and Full Stack Developer with +2 years of experience, currently working and creating projects as a freelancer to increase my experience and knowledge in the programming field. I am very constant and passionate, which always helps me to go all the way in the things I do. Thanks to this I have learned to pay attention to the needs to develop in the most efficient and useful way.<br><br>📚 Always willing to learn more.<br>🔍 I am currently learning a lot about programming.<br>🤝 I love working on this, it drives me to excel myself, and to find my great capabilities. <br>
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lfelipeu) 
 
 # 💻 Tech Stack:
@@ -12,7 +17,5 @@ Software Developer and Full Stack Developer with +2 years of experience, current
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lfelipeu&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lfelipeu&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
+#### Thanks for visiting :crossed_fingers:
 [![](https://visitcount.itsvg.in/api?id=lfelipeu&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
